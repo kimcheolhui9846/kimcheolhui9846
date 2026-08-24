@@ -2,8 +2,7 @@
 
 **AI / Data Science · Computer Vision · Reproducible ML**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kimcheolhui.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://kimcheolhui.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-kimcheolhui9846-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimcheolhui9846)
+### [Portfolio Website](https://kimcheolhui.vercel.app)
 
 I build ML projects around one question:
 
